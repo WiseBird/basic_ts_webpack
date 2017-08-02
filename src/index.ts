@@ -1,4 +1,4 @@
-import {MosuleClass} from './module';
+import {ModuleClass} from './module';
 
-let greeter = new MosuleClass();
+let greeter = new ModuleClass();
 greeter.greeet();
